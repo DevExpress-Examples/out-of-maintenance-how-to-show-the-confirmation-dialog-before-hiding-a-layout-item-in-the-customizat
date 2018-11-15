@@ -1,3 +1,14 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [CanHideItemEventArgs.cs](./CS/WindowsApplication3/Custom LayoutControl/CanHideItemEventArgs.cs) (VB: [CanHideItemEventArgs.vb](./VB/WindowsApplication3/Custom LayoutControl/CanHideItemEventArgs.vb))
+* [MyLayoutControl.cs](./CS/WindowsApplication3/Custom LayoutControl/MyLayoutControl.cs) (VB: [MyLayoutControlImplementor.vb](./VB/WindowsApplication3/Custom LayoutControl/MyLayoutControlImplementor.vb))
+* [MyLayoutControlGroup.cs](./CS/WindowsApplication3/Custom LayoutControl/MyLayoutControlGroup.cs) (VB: [MyLayoutControlGroup.vb](./VB/WindowsApplication3/Custom LayoutControl/MyLayoutControlGroup.vb))
+* [MyLayoutControlImplementor.cs](./CS/WindowsApplication3/Custom LayoutControl/MyLayoutControlImplementor.cs) (VB: [MyLayoutControlImplementor.vb](./VB/WindowsApplication3/Custom LayoutControl/MyLayoutControlImplementor.vb))
+* [MyLayoutControlItem.cs](./CS/WindowsApplication3/Custom LayoutControl/MyLayoutControlItem.cs) (VB: [MyLayoutControlItem.vb](./VB/WindowsApplication3/Custom LayoutControl/MyLayoutControlItem.vb))
+* [Main.cs](./CS/WindowsApplication3/Main.cs) (VB: [Main.vb](./VB/WindowsApplication3/Main.vb))
+* [Program.cs](./CS/WindowsApplication3/Program.cs) (VB: [Program.vb](./VB/WindowsApplication3/Program.vb))
+<!-- default file list end -->
 # How to show the Confirmation Dialog before hiding a layout item in the Customization Form
 
 
